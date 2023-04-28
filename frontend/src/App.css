@@ -1,0 +1,24 @@
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1em;
+  flex-direction: column;
+  gap: 1em;
+}
+
+label {
+  font-size: 20px;
+}
+
+button {
+  padding: 0.5em 1.5em;
+  border-style: none;
+  background-color: green;
+  color: white;
+}
+
+body {
+  background-color: white;
+  text-align: center;
+}
